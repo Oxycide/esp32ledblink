@@ -1,6 +1,6 @@
 # esp32ledBlink
 
-Led blink through bluetooth
+Led blink through bluetooth using flutter on a ESP32
 
 ## Getting Started
 
